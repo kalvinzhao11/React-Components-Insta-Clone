@@ -54,6 +54,21 @@ const dummyData = [
             },
         ],
     },
+    {
+        id: 3,
+        username: "kalvinzhao",
+        thumbnailUrl: 'https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s150x150/41494971_245833649435737_632058073157992448_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=9mLwQ4qEwgUAX-82yZQ&oh=e336059c7bc761b6e5f34a1a7a6f19be&oe=5F5E00DE',
+        imageUrl: 'https://assets-global.website-files.com/5cd091cfb5499f22bdf72905/5e20af6695131783d537b09d_Lambda_Web_Stamp_Blue_outline.png',
+        likes: 0,
+        timestamp: "July 15th 2020, 05:27:35 pm",
+        comments: [
+            {
+                id: 40,
+                username: "LambdaSchool",
+                text: "hi",
+            }
+        ],
+    },
 ];
 
 export default dummyData;
